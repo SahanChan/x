@@ -1,1 +1,46 @@
-<mxfile host="app.diagrams.net" modified="2021-05-04T15:09:48.637Z" agent="5.0 (Windows)" etag="QdBZ1D_CqdUjrrKBg_gI" version="14.6.9" type="github"><diagram name="Page-1" id="5f0bae14-7c28-e335-631c-24af17079c00">7Vtbk6MoFP41eewqBTXmsdO3edjdmdrspWreiBJDNYpNSNLZX7+geCdpayYmqWn7JfKBgOf7DhyP9AQ+xO8vHKXr31mI6QRY4fsEPk4AAD605I9CDjliTz2QIxEnocYqYEH+wxrUN0ZbEuJNo6FgjAqSNsGAJQkORANDnLN9s9mK0eaoKYpwB1gEiHbRf0ko1hq1Lauq+IJJtNZD+66uWKLgNeJsm+jxJgCusr+8OkZFX7r9Zo1Ctq9B8GkCHzhjIr+K3x8wVcYtzJbf93yktpw3x4nocwOc2a6Ffcdf2a7vWMGd7mGH6BYXj5BNVBwK4+wwF0Ta6p6SKJGQYOkEzpEuUbySI883KQpIEv2l6h79Cvgtq34EFfKnNqOdYWuUqmGC7RKrYq4MKQs4DwmXVBOmBtmwrTLkfMUSsdAzc2R5LWKq2svLjASsHtPK+83trAoBi0mgrylaYjovWXtglHFZlbAkG19w9lpKwNYjPqOYUCXtfzAPUYKKiejJgi4JhVWl5fB7DdKkvGAWY8EPsomuvQOF1LQL3Tm6vK/0CD2NrWtSdArnQ9oHorLzSgfyQkuhpyxARxZzyoLXURtX0IYLm9KYGpQBDcooF52zKgOOyrgZZcBpUxmO3ZUGMC0atjuENJzuXvIAJvfKkqm0lHxMWZzPJ8Cjivwll1eRuiqRAviGBFHtgfW3IJTIwub4XXKeywpryfBGuK6UH8jnwryc6k/xb3st/g1Lg20b+B+EfrdDv4wUt5KINiel+5a6OLYw6HUAelenr6ajcziu3STOhm6XOGAgzhuCOO/jGFD2IGNxZcH9mgi8kPSomr18H7idBXUYJ4MtJwPQsMiatt8hqJqOPtY7bPJuycd8g495KE4za75tmfwlSrMr5VhFDdc1PXbMP1CMxw1xClqcG96iLrchzsZ19QRXHrihdbXQxLiwfkyc47SiTs/gZBdbWG2761RhhIv3PW26pv1r9gjRZp3hdg/zIy7uVbaxhT0TNd2cWVXWplfvszgJiztYipMcqbWXpYIorz+fR0mUb7w8wB9oXE4xwuJ0LKhMeFILHFP5jrZr5k/PS6xhtRyJNVkK9uB1dju8wpO8Yrpk+6cKOM7woKTqO65H6qwHqdPbIdUZSe1BqteDVPd2SPVOksq4WLOIJYj2YvYTLcjTHjT7t0Pz9Jw0/9oO3GerBedmNrtVmgAdag1SRhKxqfX8TQG116uZ24zSfbelkrzHSjPl1H5QRv4oo3PKyL4JGQF/WBktvy8t+5V8jQ9BgPz56o3utsZDCXlqKyQ7NXn9vi3Rt606OjHXiYmyXMuT6SRbtxTiHakl25rt21+YsoGbubcfmMvxL1iN/ltudPpTapmTGT+mdnIYBs88fgTD91t5jW5awzHlDuHsDHkNox+Ai/jB18XoA6MPaB9wWwl0w4kCaMzK+kM5QffASUN8uV7uk5Az2Q2wMjV/pNifFKM0sGjSnjPWonElg4sW1BFsW9cxCcMsMjJ9D2iK6xx8T2Fzey8PhtT49gdKwhvZ7p4hWaB4s00iCb4git4Pn4iNvsc5BmPDdDJgDMTGTejCgdjs6pFY99zFGImNTnDJSMw1fGW9cCTWPcNyn6bqE7lFlHI/zbbsWVcOkroHSwoiFu4n4sEFw8VHslj9V06e16r+9wk+/Q8=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-05-04T15:18:44.104Z" agent="5.0 (Windows)" etag="ZY1lx2iHSOG4paWPxtnB" version="14.6.9" type="github">
+  <diagram name="Page-1" id="5f0bae14-7c28-e335-631c-24af17079c00">
+    <mxGraphModel dx="2583" dy="781" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="39150e848f15840c-1" value="" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" parent="1" vertex="1">
+          <mxGeometry x="-300" y="70" width="470" height="750" as="geometry" />
+        </mxCell>
+        <mxCell id="39150e848f15840c-2" value="Block" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" parent="1" vertex="1">
+          <mxGeometry x="320" y="250" width="430" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="bZb01kiOmycca8Bfqlvu-1" value="&lt;div style=&quot;font-size: 23px&quot; align=&quot;center&quot;&gt;&lt;font style=&quot;font-size: 23px&quot;&gt;&amp;lt;&amp;lt;device&amp;gt;&amp;gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 23px&quot; align=&quot;center&quot;&gt;&lt;font style=&quot;font-size: 23px&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="verticalAlign=top;align=center;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" parent="1" vertex="1">
+          <mxGeometry x="-880" y="40" width="410" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="bZb01kiOmycca8Bfqlvu-2" value="&lt;div style=&quot;font-size: 22px&quot; align=&quot;center&quot;&gt;&lt;font style=&quot;font-size: 22px&quot;&gt;&amp;lt;&amp;lt;OS&amp;gt;&amp;gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 22px&quot; align=&quot;center&quot;&gt;&lt;font style=&quot;font-size: 22px&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="verticalAlign=top;align=center;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" parent="1" vertex="1">
+          <mxGeometry x="-850" y="120" width="320" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="bZb01kiOmycca8Bfqlvu-3" value="&lt;div style=&quot;font-size: 24px&quot;&gt;&lt;font style=&quot;font-size: 24px&quot;&gt;Android OS&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 24px&quot;&gt;&lt;font style=&quot;font-size: 24px&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-777.5" y="180" width="165" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="bZb01kiOmycca8Bfqlvu-4" value="&lt;font style=&quot;font-size: 20px&quot;&gt;Samsung Galaxy&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-767.5" y="90" width="185" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="bZb01kiOmycca8Bfqlvu-6" value="&lt;div style=&quot;font-size: 21px&quot; align=&quot;center&quot;&gt;&lt;font style=&quot;font-size: 21px&quot;&gt;&amp;lt;&amp;lt;device&amp;gt;&amp;gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 21px&quot; align=&quot;center&quot;&gt;&lt;font style=&quot;font-size: 21px&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="verticalAlign=top;align=center;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" parent="1" vertex="1">
+          <mxGeometry x="-880" y="490" width="410" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="bZb01kiOmycca8Bfqlvu-7" value="&lt;div style=&quot;font-size: 21px&quot; align=&quot;center&quot;&gt;&lt;font style=&quot;font-size: 21px&quot;&gt;&amp;lt;&amp;lt;OS&amp;gt;&amp;gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 21px&quot; align=&quot;center&quot;&gt;&lt;font style=&quot;font-size: 21px&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="verticalAlign=top;align=center;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" parent="1" vertex="1">
+          <mxGeometry x="-850" y="560" width="320" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="bZb01kiOmycca8Bfqlvu-8" value="&lt;font style=&quot;font-size: 21px&quot;&gt;Apple iOS&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-752.5" y="610" width="115" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="bZb01kiOmycca8Bfqlvu-9" value="&lt;font style=&quot;font-size: 21px&quot;&gt;Apple S5&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-735" y="530" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NkFCByyqnqAlxPoUBvwc-2" value="&lt;div style=&quot;font-size: 22px&quot; align=&quot;center&quot;&gt;&lt;font style=&quot;font-size: 22px&quot;&gt;&amp;lt;&amp;lt;application&amp;gt;&amp;gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 22px&quot; align=&quot;center&quot;&gt;&lt;font style=&quot;font-size: 22px&quot;&gt;Mobile Portal App&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 22px&quot; align=&quot;center&quot;&gt;&lt;font style=&quot;font-size: 22px&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="verticalAlign=top;align=center;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-820" y="210" width="250" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="NkFCByyqnqAlxPoUBvwc-4" value="&lt;div style=&quot;font-size: 22px&quot; align=&quot;center&quot;&gt;&lt;font style=&quot;font-size: 22px&quot;&gt;&amp;lt;&amp;lt;application&amp;gt;&amp;gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 22px&quot; align=&quot;center&quot;&gt;&lt;font style=&quot;font-size: 22px&quot;&gt;Mobile Portal App&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 22px&quot; align=&quot;center&quot;&gt;&lt;font style=&quot;font-size: 22px&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="verticalAlign=top;align=center;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-815" y="650" width="250" height="160" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
